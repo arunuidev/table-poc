@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.err-msg {
+  font-size: 13px;
+}
+
+.app-row {
+  height: 100vh;
+}
+
+.app-row .img-area {
+  background: #f05033;
+}
+
+.app-row .img-area img {
+  object-fit: contain;
+  height: 100%;
+}
+
+.form-area {
+  padding: 40px;
+}
